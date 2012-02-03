@@ -38,9 +38,9 @@ logger.addHandler(hdlr)
 logger.setLevel(logging.INFO)
 
 
-auth_token= "72157628400210425-92e465af00fa31cc"
-api_key="fd94412129dae82b468815abf977edf3"
-secret="2ab1710e0b3e44b8"
+auth_token= "7215xxxxxxxxxxx1042xxxxf00fa31cc"
+api_key="fd944xxxxxx15abf97xxxxxxxxxxx3"
+secret="2axxxx7xxxx"
 
 path=parser.get('main', 'path')
 collectionid_all=parser.get('main', 'collectionid_all')
